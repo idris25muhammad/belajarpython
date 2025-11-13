@@ -1,1 +1,2 @@
-print("Qeysha Nadine")
+def perkenalan():
+    print("Nama Saya Qeysha")
